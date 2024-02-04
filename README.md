@@ -1,1 +1,1 @@
-https://github.com/GarzonMiguelA/ELECTRODOMESTI/nombre-de-la-imagen.jpg
+[Imgur](https://i.imgur.com/Euzq0pR.png)
