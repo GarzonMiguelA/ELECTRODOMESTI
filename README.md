@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/GarzonMiguelA/ELECTRODOMESTI/master
+https://github.com/GarzonMiguelA/ELECTRODOMESTI/raw/main/carpeta-de-la-imagen/logo.png)
