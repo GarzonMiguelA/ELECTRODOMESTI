@@ -1,6 +1,6 @@
 # Sistema de Electrodomésticos
 
-Este proyecto implementa un sistema de gestión de electrodomésticos con una estructura de clases en Kotlin. El sistema incluye una clase base `Electrodomestic` y dos clases derivadas `Rentadora` y `Televisio`.
+Este proyecto implementa un sistema de gestión de electrodomésticos con una estructura de clases en Kotlin. El sistema incluye una clase base `Electrodomestic` y dos clases derivadas "hijas" `Rentadora` y `Televisio`.
 
 ## Clases Principales
 
