@@ -48,5 +48,5 @@ El archivo `Main.kt` contiene un ejemplo de uso donde se crean instancias de var
 
 El proyecto puede ejecutarse directamente desde el archivo `Main.kt`. Al ejecutarlo, se crean instancias de electrodomésticos y se presentan los totales para diferentes categorías.
 
-
+## Link de la Imagen UML
 [Imgur](https://i.imgur.com/Euzq0pR.png)
